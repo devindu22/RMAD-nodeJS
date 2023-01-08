@@ -18,7 +18,7 @@ console.log(jsObjectArr)
 
 const newTodo = {
     id: 3,
-    title: 'todo 3',
+    title: 'todo3',
     status: 'todo'
 }
 
